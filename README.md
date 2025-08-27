@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @god1mas
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
-- 📫 How to reach me dimasabdussyukur@gmail.com
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: Im newbie
+const dimas = {
+  pronouns: "he",
+  code: [Javascript, HTML, CSS, Java, Phyton, C++],
+  tools: [Visual Studio Code, Bootstrap]
+}
 
 <!---
 god1mas/god1mas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
